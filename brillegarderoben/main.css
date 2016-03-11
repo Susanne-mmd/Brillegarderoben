@@ -1,0 +1,145 @@
+@charset "utf-8";
+.container {
+	width:1024px;
+	margin:auto;	
+}
+	 
+body {
+	height: auto;
+}
+
+a:link {
+	color: black;
+	text-decoration:none;
+}
+
+a:visited {
+	color: black;
+	text-decoration:none;
+}
+
+a:active {
+	color: purple;
+	text-decoration:none;
+}
+a:hover {
+	color: purple;
+	text-decoration:none;
+}
+
+.navbar {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-bottom: thin solid #90C;
+	border-left: thin solid #90C;
+}
+
+.navbar ul li {
+	display: inline;
+}
+
+.navbar ul li a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: 60px;
+	
+	}
+	
+.content {
+	margin-left: 110px;
+	margin-right: 90px;
+}
+
+p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+	font-weight: bold;
+	color: #909;
+}
+
+.footer {
+	margin-top: 50px;
+}
+
+.text {
+	margin-top: 40px;
+}
+
+table {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000;
+ 	border-right: medium solid #000;
+}
+
+.thumbnail {
+	float:left;
+	margin:15px 15px 20px 20px;
+	border: thin solid #000;
+}
+
+.brilletrappe {
+	float:right;
+	border-left: medium solid #000;
+	margin-left:20px;
+	margin-top:50px;
+}
+
+.butikken {
+	float:right;
+	margin-top:50px;
+	border: thin solid #000;
+}
+
+.rayban {
+	float:right;
+	border: thin solid #000;
+}
+
+.sommerpige {
+	float:right;
+	margin-top:75px;
+	margin-right:50px;
+	border: thin solid #000;
+}
+
+.skjoldrens {
+	float:right;
+	margin-top:50px;
+	margin-right:50px;
+	margin-left:100px;
+	border: thin solid #000;	
+}
+
+.xenith {
+	float:right;
+	margin-top:50px;
+	margin-right:50px;
+	margin-left:100px;
+	border: thin solid #000;
+}
+
+.raylogo {
+	float:right;
+	margin-right:50px;
+	margin-left:100px;
+	border: thin solid #000;
+}
+
+.dior {
+	float:right;
+	margin-top:50px;
+	margin-right:50px;
+	margin-left:100px;
+	border: thin solid #000;
+}
+
+.peter {
+	border: thin solid #000;
+}
+
+.allan {
+	border: thin solid #000;
+}
